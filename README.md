@@ -13,7 +13,7 @@ An .exe file:<br />
 An archive:<br />
 ![.7z](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-53_27-10-2025_1.png)
 
-My custom file metadata menu plugin (adapts to file content:<br />
+My custom file metadata menu plugin (adapts to file content):<br />
 ![metadata](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-54_27-10-2025.png)
 
 Reintegration of Rubic's snippets:<br />

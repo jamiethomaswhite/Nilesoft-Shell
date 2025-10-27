@@ -47,10 +47,10 @@
                 modify(title='Unpin from quick access' image=\uE0C7 /*https://nilesoft.org/glyphs/e0c7*/ tip='Unpin the currently selected item/s from quick access' type='desktop' where=str.equals(this.name, ["unpin from quick access"]) separator='both')
 
                 //PASTE
-                modify(title='Paste' image=\uE0b1 /*https://nilesoft.org/glyphs/e0b1*/ tip='Paste the currently held item/s from the clipbaord to the selected position' type='back' where=str.equals(this.name, ["paste"]) separator='after')
+                modify(title='Paste' image=\uE0b1 /*https://nilesoft.org/glyphs/e0b1*/ tip='Paste the currently held item/s from the clipbaord to the selected position' type='desktop' where=str.equals(this.name, ["paste"]) separator='after')
 
                 //NEW
-                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='back' where=str.equals(this.name, ["new"]) separator='both')
+                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='desktop' where=str.equals(this.name, ["new"]) separator='both')
 
                 //PROPERTIES
                 modify(title='Properties' image=\uE113 /*https://nilesoft.org/glyphs/e113*/ tip='View and control finer details of the currently selected item/s' type='desktop' where=str.equals(this.name, ["properties"]) separator='none')
@@ -69,3 +69,4 @@
 
 
 //PLUGINS
+

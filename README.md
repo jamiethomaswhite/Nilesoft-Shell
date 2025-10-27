@@ -51,5 +51,4 @@ The various other 'dir' types in the Quick Access panel, including namespaces/de
 ![normal folder](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-52_27-10-2025_1.png)
 ![network shares](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-52_27-10-2025_0.png)
 ![recycle bin](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-53_27-10-2025_0.png)
-![desktop folder](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_03-53_27-10-2025.png)
-*(NOTE: The desktop folder has entries that refuse to be themed or positioned, as seen in the "New" menu entry not following the set icon and placement.)
+![desktop folder](https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/screenshot_23-26_27-10-2025.png)

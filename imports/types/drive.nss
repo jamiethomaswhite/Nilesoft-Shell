@@ -53,7 +53,7 @@
                 modify(title='Rename' image=\uE0B5 /*https://nilesoft.org/glyphs/e0b5*/ tip='Change the name of the currently selected item' type='drive' where=str.equals(this.name, ["rename"]) separator='after')
 
                 //NEW
-                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='back' where=str.equals(this.name, ["new"]) separator='both')
+                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='drive' where=str.equals(this.name, ["new"]) separator='both')
 
                 //PROPERTIES
                 modify(title='Properties' image=\uE113 /*https://nilesoft.org/glyphs/e113*/ tip='View and control finer details of the currently selected item/s' type='drive' where=str.equals(this.name, ["properties"]) separator='none')
@@ -71,3 +71,4 @@
 
 
 //PLUGINS
+

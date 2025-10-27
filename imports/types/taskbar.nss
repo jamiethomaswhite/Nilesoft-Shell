@@ -22,7 +22,7 @@
 
     //HIDE LIST
 
-    modify(type='taskbar' where=str.equals(this.name, ["cascade windows", "show windows stacked", "show windows side by side", "show the desktop", "task manager", "properties", "taskbar settings"]) visibility='hidden')
+    modify(='taskbar' where=str.equals(this.name, ["cascade windows", "show windows stacked", "show windows side by side", "show the desktop", "task manager", "properties", "taskbar settings"]) visibility='hidden')
 
     //HIDE LIST
 
@@ -51,7 +51,7 @@
 
 //PLUGINS
 
-    menu(title='Plugins' image=\uE1E5 tip='A placeholder for the Nilesoft Shell context menu entries' type='file' expanded='true')
+    menu(title='Plugins' image=\uE1E5 tip='A placeholder for the Nilesoft Shell context menu entries' type='taskbar' expanded='true')
     {
 
 		//WINDOWS
@@ -633,3 +633,4 @@
 	} //menu(title='plugins')
 
 //PLUGINS
+

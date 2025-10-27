@@ -65,7 +65,7 @@
                 modify(title='Rename' image=\uE0B5 /*https://nilesoft.org/glyphs/e0b5*/ tip='Change the name of the currently selected item' type='dir' where=str.equals(this.name, ["rename"]) separator='after')
 
                 //NEW
-                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='back' where=str.equals(this.name, ["new"]) separator='both')
+                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='dir' where=str.equals(this.name, ["new"]) separator='both')
 
                 //PROPERTIES
                 modify(title='Properties' image=\uE113 /*https://nilesoft.org/glyphs/e113*/ tip='View and control finer details of the currently selected item/s' type='dir' where=str.equals(this.name, ["properties"]) separator='both')
@@ -81,7 +81,7 @@
 
 //PLUGINS
 
-    menu(title='Plugins' image=\uE1E5 tip='A placeholder for the Nilesoft Shell context menu entries' type='file' expanded='true')
+    menu(title='Plugins' image=\uE1E5 tip='A placeholder for the Nilesoft Shell context menu entries' type='dir' expanded='true')
     {
 
         //MORE OPTIONS
@@ -330,3 +330,4 @@
     } //menu(title='Plugins')
 
 //PLUGINS
+

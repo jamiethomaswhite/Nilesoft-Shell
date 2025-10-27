@@ -50,10 +50,10 @@
                 modify(title='Empty recycle bin' image=\uE0B4 /*https://nilesoft.org/glyphs/e0b4*/ tip='Empty the current contents of the recycle bin, deleting them permanently' type='recyclebin' where=str.equals(this.name, ["empty recycle bin"]) separator='both')
 
                 //PASTE
-                modify(title='Paste' image=\uE0b1 /*https://nilesoft.org/glyphs/e0b1*/ tip='Paste the currently held item/s from the clipbaord to the selected position' type='back' where=str.equals(this.name, ["paste"]) separator='after')
+                modify(title='Paste' image=\uE0b1 /*https://nilesoft.org/glyphs/e0b1*/ tip='Paste the currently held item/s from the clipbaord to the selected position' type='namespace' where=str.equals(this.name, ["paste"]) separator='after')
 
                 //NEW
-                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='back' where=str.equals(this.name, ["new"]) separator='both')
+                modify(title='New' image=\uE160 /*https://nilesoft.org/glyphs/e160*/ tip='A sub-menu for creating new empty files or folders' type='namespace' where=str.equals(this.name, ["new"]) separator='both')
 
                 //PROPERTIES
                 modify(title='Properties' image=\uE113 /*https://nilesoft.org/glyphs/e113*/ tip='View and control finer details of the currently selected item/s' type='namespace' where=str.equals(this.name, ["properties"]) separator='none')
@@ -72,3 +72,4 @@
 
 
 //PLUGINS
+

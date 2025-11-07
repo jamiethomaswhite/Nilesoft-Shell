@@ -17,6 +17,9 @@ NORMAL<br />
 <img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/desktop%20back%20normal.png" alt="Desktop background - Normal" width="200"><br />
 EXTENDED<br />
 <img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/desktop%20back%20extended.png" alt="Desktop background - Extended" width="200"><br />
+<br />
+TASKBAR<br />
+<img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/taskbar.png" alt="Taskbar" width="200"><br />
 
 <br />
 

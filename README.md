@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/shell.png" alt="Nileosft Shell">
+<img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/shell_banner.png" alt="Nileosft Shell">
 <br />
 <img src="https://raw.githubusercontent.com/jamiethomaswhite/Nilesoft-Shell/refs/heads/main/screenshots/Project%20R.O.C.M%20Banner.png" alt="Project R.O.C.M">
 <br />
